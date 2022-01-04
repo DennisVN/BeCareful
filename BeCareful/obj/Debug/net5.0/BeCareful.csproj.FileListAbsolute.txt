@@ -1,0 +1,16 @@
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\bin\Debug\net5.0\BeCareful.exe
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\bin\Debug\net5.0\BeCareful.deps.json
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\bin\Debug\net5.0\BeCareful.runtimeconfig.json
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\bin\Debug\net5.0\BeCareful.runtimeconfig.dev.json
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\bin\Debug\net5.0\BeCareful.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\bin\Debug\net5.0\ref\BeCareful.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\bin\Debug\net5.0\BeCareful.pdb
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\obj\Debug\net5.0\BeCareful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\obj\Debug\net5.0\BeCareful.AssemblyInfoInputs.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\obj\Debug\net5.0\BeCareful.AssemblyInfo.cs
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\obj\Debug\net5.0\BeCareful.csproj.CoreCompileInputs.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\obj\Debug\net5.0\BeCareful.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\obj\Debug\net5.0\ref\BeCareful.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\obj\Debug\net5.0\BeCareful.pdb
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\obj\Debug\net5.0\BeCareful.genruntimeconfig.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\BeCareful\BeCareful\obj\Debug\net5.0\BeCareful.csproj.AssemblyReference.cache
