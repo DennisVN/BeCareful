@@ -164,6 +164,33 @@ namespace BeCareful
 
                 #endregion
 
+
+
+                #region binaryDataIO
+                string txtFilePath4 = @"C:\Users\BEAUCOUPDARGENT\Desktop\Be_Careful\UsbDrive\USB.dat";
+
+                FileInfo datFile = new FileInfo(txtFilePath4);
+                BinaryWriter bw = new BinaryWriter(datFile.OpenWrite());
+
+                string stText = "© DennisVN";
+                int year = 2022;
+                double percent = 99.99;
+
+                bw.Write("Copyright : " + stText);
+                bw.Write("Year of production : " + year);
+                bw.Write(percent + "% chance you're going to like it !!!");
+
+                bw.Close();
+
+                BinaryReader br = new BinaryReader(datFile.OpenRead());
+                Console.WriteLine(br.ReadString());
+                Console.WriteLine(br.ReadInt32());
+                Console.WriteLine(br.ReadDouble());
+
+                br.Close();
+
+                #endregion
+
                 #region stringbuilder
                 // Write 5000 lines with StringBuilder
                 //DateTime d1 = DateTime.Now;
